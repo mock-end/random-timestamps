@@ -1,6 +1,6 @@
 {
   "name": "random-timestamps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a random timestamp.",
   "main": "index.js",
   "scripts": {
